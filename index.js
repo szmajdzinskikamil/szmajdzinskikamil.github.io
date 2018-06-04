@@ -18,10 +18,10 @@ document.getElementById('four').addEventListener('click', function() {
     win.focus();
 })
 
-// document.getElementById('five').addEventListener('click', function() {
-//     var win = window.open('https://github.com/kamilszmajdzinski/emojillegro', '_blank');
-//     win.focus();
-// })
+document.getElementById('five').addEventListener('click', function() {
+    var win = window.open('https://github.com/kamilszmajdzinski/podwiez-pl-landing', '_blank');
+    win.focus();
+})
 
 // document.getElementById('one').addEventListener('click', function() {
 //     var win = window.open('https://github.com/kamilszmajdzinski/emojillegro', '_blank');
